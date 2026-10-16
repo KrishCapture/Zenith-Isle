@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dynamic Island</string>
+    <string name="accessibility_service_description">Enables the Dynamic Island notch overlay to render flush over the hardware camera cutout and detect media app transitions for smooth docking animations.</string>
+</resources>

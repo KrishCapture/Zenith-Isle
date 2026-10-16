@@ -1,0 +1,7 @@
+                            .background(
+                                remember(activity.song.primaryColor, activity.song.secondaryColor) {
+                                    Brush.linearGradient(
+                                        listOf(activity.song.primaryColor, activity.song.secondaryColor)
+                                    )
+                                }
+                            ),

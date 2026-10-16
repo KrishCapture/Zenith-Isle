@@ -1,0 +1,1 @@
+sed -i 's/WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,/WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS or\n                    WindowManager.LayoutParams.FLAG_HARDWARE_ACCELERATED,/g' app/src/main/java/com/example/service/DynamicIslandOverlayService.kt

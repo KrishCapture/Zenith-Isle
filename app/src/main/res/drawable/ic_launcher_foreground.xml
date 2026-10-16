@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Dynamic Island Black Pill -->
+    <path
+        android:fillColor="#08080C"
+        android:pathData="M34,42 h40 a12,12 0 0,1 12,12 a12,12 0 0,1 -12,12 h-40 a12,12 0 0,1 -12,-12 a12,12 0 0,1 12,-12 Z" />
+    
+    <!-- Left Camera / Sensor Cutout Circle -->
+    <path
+        android:fillColor="#222330"
+        android:pathData="M31,54 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+
+    <!-- Music Wave / Live Equalizer Bars -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M52,50 h3 v8 h-3 z" />
+    <path
+        android:fillColor="#A855F7"
+        android:pathData="M58,47 h3 v14 h-3 z" />
+    <path
+        android:fillColor="#EC4899"
+        android:pathData="M64,52 h3 v4 h-3 z" />
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M70,48 h3 v12 h-3 z" />
+</vector>

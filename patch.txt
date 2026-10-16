@@ -1,0 +1,7 @@
+    }
+                }
+            }
+            .background(DarkBackground)
+            .background(wallpaperGradient),
+        contentAlignment = Alignment.TopCenter
+    ) {

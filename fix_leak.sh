@@ -1,0 +1,1 @@
+sed -i 's/windowManager?.removeView(overlayView)/overlayView?.disposeComposition()\n                windowManager?.removeView(overlayView)/g' app/src/main/java/com/example/service/DynamicIslandOverlayService.kt

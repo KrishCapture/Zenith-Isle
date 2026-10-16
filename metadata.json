@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Island",
+  "description": "Dynamic Island overlay for live activity tracking, media playback control, timers, and smooth expanding pill animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
